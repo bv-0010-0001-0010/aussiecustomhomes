@@ -11,7 +11,6 @@ import { ProjectDetailsModal } from './components/ProjectDetailsModal';
 import { motion, useScroll, useSpring, AnimatePresence } from 'motion/react';
 import { PROJECTS, Project } from './constants';
 import { cn } from './lib/utils';
-
 function App() {
   const { scrollYProgress } = useScroll();
   const scaleX = useSpring(scrollYProgress, {
