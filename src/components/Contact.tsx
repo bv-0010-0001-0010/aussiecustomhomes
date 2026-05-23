@@ -16,7 +16,7 @@ export const Contact = () => {
     e.preventDefault();
     const subject = `Website Inquiry from ${formData.firstName} ${formData.lastName}`;
     const body = `Name: ${formData.firstName} ${formData.lastName}%0D%0AEmail: ${formData.email}%0D%0AInterested In: ${formData.interest}%0D%0AMessage: ${formData.message}`;
-    window.location.href = `mailto:admin@thecapitalre.com.au?subject=${encodeURIComponent(subject)}&body=${body}`;
+    window.location.href = `mailto:office@achpl.com.au?subject=${encodeURIComponent(subject)}&body=${body}`;
   };
 
   return (

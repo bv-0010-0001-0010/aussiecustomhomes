@@ -152,7 +152,7 @@ export const Navbar = ({ onSearchClick }: { onSearchClick?: () => void }) => {
           </div>
           
           <div className="lg:hidden flex items-center h-full">
-             <a href="tel:+61401651269" className="text-brand-accent">
+             <a href="tel:+61 450 708 723(" className="text-brand-accent">
                 <Phone className="w-6 h-6" />
              </a>
           </div>
