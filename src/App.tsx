@@ -253,7 +253,7 @@ function App() {
 
       {/* Floating WhatsApp Button */}
       <a 
-        href="https://wa.me/61401651269" 
+        href="https://wa.me/61450708723" 
         target="_blank" 
         rel="noopener noreferrer"
         className="fixed bottom-[72px] right-4 z-[100] w-14 h-14 bg-[#25D366] rounded-full flex items-center justify-center shadow-2xl hover:scale-110 active:scale-95 transition-all text-white group"
@@ -267,11 +267,11 @@ function App() {
 
       {/* Fixed Phone Button */}
       <a 
-        href="tel:+61401651269"
+        href="tel:+61 450 708 723"
         className="fixed bottom-0 right-0 z-[100] bg-brand-accent text-brand-dark py-3 px-6 md:px-8 font-black uppercase text-lg md:text-xl flex items-center gap-4 shadow-2xl rounded-tl-lg hover:bg-white transition-colors duration-300"
       >
         <Phone className="w-5 h-5 md:w-6 md:h-6 fill-brand-dark" />
-        <span className="hidden sm:inline">+61 401 651 269</span>
+        <span className="hidden sm:inline">+61 450 708 723</span>
         <span className="sm:hidden">CALL</span>
       </a>
 

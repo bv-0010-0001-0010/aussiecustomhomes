@@ -34,11 +34,11 @@ export const Navbar = ({ onSearchClick }: { onSearchClick?: () => void }) => {
       )}>
         <div className="max-w-[1400px] mx-auto w-full px-6 flex justify-between items-center h-full text-brand-dark">
           <div className="flex gap-8 items-center h-full divide-x divide-brand-dark/10">
-            <a href="tel:+61401651269" className="flex items-center gap-2 hover:opacity-70 transition-opacity pr-6">
-              <Phone className="w-3 h-3" /> +61 401 651 269
+            <a href="tel:+61 450 708 723+" className="flex items-center gap-2 hover:opacity-70 transition-opacity pr-6">
+              <Phone className="w-3 h-3" /> +61 450 708 723
             </a>
-            <a href="mailto:admin@thecapitalre.com.au" className="flex items-center gap-2 hover:opacity-70 transition-opacity px-6 lowercase">
-              <Mail className="w-3 h-3" /> admin@thecapitalre.com.au
+            <a href="mailto:office@achpl.com.au" className="flex items-center gap-2 hover:opacity-70 transition-opacity px-6 lowercase">
+              <Mail className="w-3 h-3" /> office@achpl.com.au
             </a>
           </div>
           

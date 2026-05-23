@@ -6,9 +6,9 @@
 export const COMPANIES = [
   {
     name: "Aussie Custom Homes Pty Ltd",
-    licence: "357430C",
-    acn: "642 725 022",
-    email: "admin@thecapitalre.com.au",
+    licence: "329935C",
+    acn: "628 125 379",
+    email: "office@achpl.com.au",
     location: "NSW, Australia",
     focus: "Construction of residential houses and duplexes",
     services: [
@@ -93,26 +93,7 @@ export const PROJECTS: Project[] = [
     baths: 2,
     cars: 1
   },
-  {
-    id: '19',
-    title: 'Grand Residential',
-    type: 'Residential',
-    location: 'Bella Vista',
-    image: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&q=80&w=1200',
-    beds: 6,
-    baths: 4,
-    cars: 3
-  },
-  {
-    id: '20',
-    title: 'Double Bay Duplex',
-    type: 'Duplex',
-    location: 'Double Bay',
-    image: 'https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?auto=format&fit=crop&q=80&w=1200',
-    beds: 4,
-    baths: 2,
-    cars: 2
-  },
+
   {
     id: '5',
     title: 'Western Estate',
@@ -151,13 +132,6 @@ export const PROJECTS: Project[] = [
     cars: 2
   },
   {
-    id: '9',
-    title: 'Green Valley',
-    type: 'Land Only',
-    location: 'Marsden Park',
-    image: 'https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&q=80&w=1200',
-  },
-  {
     id: '10',
     title: 'Heritage Mews',
     type: 'Houses',
@@ -167,77 +141,6 @@ export const PROJECTS: Project[] = [
     baths: 2,
     cars: 2
   },
-  {
-    id: '11',
-    title: 'Urban Oasis',
-    type: 'Apartments',
-    location: 'Sydney CBD',
-    image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80&w=1200',
-    beds: 2,
-    baths: 1,
-    cars: 1
-  },
-  {
-    id: '12',
-    title: 'Oakwood Park',
-    type: 'Land Only',
-    location: 'Box Hill',
-    image: 'https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1200',
-  },
-  {
-    id: '13',
-    title: 'The Grandscape',
-    type: 'Houses',
-    location: 'Pymble',
-    image: 'https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&q=80&w=1200',
-    beds: 6,
-    baths: 4,
-    cars: 3
-  },
-  {
-    id: '14',
-    title: 'Azure Heights',
-    type: 'Apartments',
-    location: 'Bondi',
-    image: 'https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&q=80&w=1200',
-    beds: 3,
-    baths: 2,
-    cars: 2
-  },
-  {
-    id: '15',
-    title: 'Willow Creek',
-    type: 'Land Only',
-    location: 'Schofields',
-    image: 'https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&q=80&w=1200',
-  },
-  {
-    id: '16',
-    title: 'Summit Residences',
-    type: 'Apartments',
-    location: 'Chatswood',
-    image: 'https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?auto=format&fit=crop&q=80&w=1200',
-    beds: 4,
-    baths: 3,
-    cars: 2
-  },
-  {
-    id: '17',
-    title: 'Gardenia Estates',
-    type: 'Houses',
-    location: 'Kellyville',
-    image: 'https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&q=80&w=1200',
-    beds: 5,
-    baths: 3,
-    cars: 2
-  },
-  {
-    id: '18',
-    title: 'Blue Horizon',
-    type: 'Land Only',
-    location: 'Gregory Hills',
-    image: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&q=80&w=1200',
-  }
 ];
 
 export const PROCESS_STEPS = [

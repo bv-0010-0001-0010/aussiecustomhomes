@@ -39,23 +39,23 @@ export const Contact = () => {
             </h2>
 
             <div className="space-y-10">
-                <a href="tel:+61401651269" className="flex gap-6 group">
+                <a href="tel:+61450 708. 723" className="flex gap-6 group">
                   <div className="w-12 h-12 rounded-full bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center shrink-0 group-hover:bg-brand-accent group-hover:text-brand-dark transition-all">
                     <Phone className="w-5 h-5" />
                   </div>
                   <div>
                     <p className="text-[10px] font-bold uppercase tracking-widest text-white/40 mb-1">Call Us</p>
-                    <p className="text-xl font-black text-white group-hover:text-brand-accent transition-colors">+61 401 651 269</p>
+                    <p className="text-xl font-black text-white group-hover:text-brand-accent transition-colors">+61 450 708 723</p>
                   </div>
                 </a>
 
-              <a href="mailto:admin@thecapitalre.com.au" className="flex gap-6 group">
+              <a href="mailto:office@achpl.com.au" className="flex gap-6 group">
                 <div className="w-12 h-12 rounded-full bg-brand-accent/10 border border-brand-accent/30 flex items-center justify-center shrink-0 group-hover:bg-brand-accent group-hover:text-brand-dark transition-all">
                   <Mail className="w-5 h-5 transition-colors" />
                 </div>
                 <div>
                   <p className="text-[10px] font-bold uppercase tracking-widest text-white/40 mb-1">Email Us</p>
-                  <p className="text-xl font-black text-white group-hover:text-brand-accent transition-colors">admin@thecapitalre.com.au</p>
+                  <p className="text-xl font-black text-white group-hover:text-brand-accent transition-colors">office@achpl.com.au</p>
                 </div>
               </a>
 
@@ -174,17 +174,17 @@ export const Footer = () => {
               A leading metropolitan construction group in Australia. Dedicated to quality, transparency, and engineering brilliance in every project.
             </p>
             <div className="flex flex-col gap-4">
-              <a href="mailto:admin@thecapitalre.com.au" className="flex items-center gap-3 text-white/50 hover:text-brand-accent transition-colors group">
+              <a href="mailto:office@achpl.com.au" className="flex items-center gap-3 text-white/50 hover:text-brand-accent transition-colors group">
                 <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center group-hover:bg-brand-accent group-hover:text-brand-dark transition-all">
                   <Mail className="w-4 h-4" />
                 </div>
-                <span className="text-sm font-bold">admin@thecapitalre.com.au</span>
+                <span className="text-sm font-bold">office@achpl.com.au</span>
               </a>
-              <a href="tel:+61401651269" className="flex items-center gap-3 text-white/50 hover:text-brand-accent transition-colors group">
+              <a href="tel:+61 450 708 723" className="flex items-center gap-3 text-white/50 hover:text-brand-accent transition-colors group">
                 <div className="w-8 h-8 rounded-full bg-white/5 flex items-center justify-center group-hover:bg-brand-accent group-hover:text-brand-dark transition-all">
                   <Phone className="w-4 h-4" />
                 </div>
-                <span className="text-sm font-bold">+61 401 651 269</span>
+                <span className="text-sm font-bold">+61 450 708 723</span>
               </a>
             </div>
           </div>
